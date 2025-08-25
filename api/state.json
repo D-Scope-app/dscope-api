@@ -1,3 +1,7 @@
 {
-  "lastBlock": 5647904
+  "network": "zkSync Era Sepolia",
+  "factoryAddress": "0x2e1b2155e8731fafed4e4352a963281bba73f3d0",
+  "lastBlock": 5683926,
+  "updatedAt": 1756115073,
+  "allowlist": []
 }
