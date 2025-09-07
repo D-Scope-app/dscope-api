@@ -10,11 +10,5 @@
     "start": 1755165933,
     "end": 1755169533,
     "metaHash": "0x4f64fe1ce613546d34d666d8258c13c6296820fd13114d784203feb91276e838"
-  },
-  "0xcc3b1758976be26661329e9b8a337b1a5c006670": {
-    "creator": "0x2618e7e3d0cc897b0eab9813821a9fb5d20bd419",
-    "start": 0,
-    "end": 0,
-    "metaHash": "0xdc590b02caa5aa2a37a1999efd22ff05c9bb76d64eb70eb33163696a235bbe6d"
   }
 }
