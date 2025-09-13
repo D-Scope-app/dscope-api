@@ -17,3 +17,4 @@
 {"t":"PrizeFunded","survey":"0xbc4be5571fb6c13ea3def30118d0a2fc245bd90c","funder":"","amount":"100000000000000","block":5756196,"tx":"0xc04a3fcf54a21ade653f9440cfb246960e419dbf58850f6d309af2f323a1c58c"}
 {"t":"QuestionAdded","survey":"0xbc4be5571fb6c13ea3def30118d0a2fc245bd90c","index":0,"text":"134","block":5756198,"tx":"0xb0ca74bd10a47a92320453a4ebe92a1337acf0313bdf0871ab36b6119cbd6998"}
 {"t":"QuestionAdded","survey":"0xbc4be5571fb6c13ea3def30118d0a2fc245bd90c","index":1,"text":"22","block":5756199,"tx":"0x7f99cf05791742cd90189925ff37378255b50dd04c3238b3a5814bd70e4c3247"}
+{"t":"Voted","survey":"0xbc4be5571fb6c13ea3def30118d0a2fc245bd90c","voter":"0x24a249ea30ec4eca1f944cc1892f56cf78d654b0","block":5756402,"tx":"0x0a05a05634d5a39017ceaddf8b8c058e6cfbb36795ff41f74f73e260ebade994"}
