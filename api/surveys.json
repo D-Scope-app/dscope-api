@@ -140,5 +140,20 @@
     "metaValid": false,
     "metaUrl": "/api/meta/300/0x31b7c82bb819a05bade4680db7b9750dad816c75.json",
     "prizeLiveBalance": "0"
+  },
+  "0xbc4be5571fb6c13ea3def30118d0a2fc245bd90c": {
+    "creator": "0x24a249ea30ec4eca1f944cc1892f56cf78d654b0",
+    "start": 0,
+    "end": 0,
+    "metaHash": "0x1f2c1bb72d38dfcf4c86a8ffe95e19466f8643d0f501be11c3e8a5744ee3896f",
+    "funded": false,
+    "fundingTxHash": null,
+    "title": "Untitled",
+    "plannedRewardEth": "0",
+    "plannedRewardWei": "0",
+    "metaValid": false,
+    "metaUrl": "/api/meta/300/0xbc4be5571fb6c13ea3def30118d0a2fc245bd90c.json",
+    "prizeFunded": "100000000000000",
+    "prizeLiveBalance": "100000000000000"
   }
 }
