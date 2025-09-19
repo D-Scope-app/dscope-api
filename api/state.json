@@ -3,7 +3,7 @@
   "chainId": 300,
   "factoryAddress": "0x2e1b2155e8731fafed4e4352a963281bba73f3d0",
   "treasurySafe": null,
-  "lastBlock": 5784105,
-  "updatedAt": 1758274957,
+  "lastBlock": 5784139,
+  "updatedAt": 1758275629,
   "allowlist": []
 }
