@@ -1,90 +1,15 @@
 [
   {
-    "address": "0x1b7a6f15e4e95deb43cb11381e64a9c48426712e",
+    "address": "0xc13b6adf9411788cdce4c4c3a414d1d7144ea684",
     "creator": "0x24a249ea30ec4eca1f944cc1892f56cf78d654b0",
-    "startTime": 1758363935,
-    "endTime": 0,
-    "createdSec": 0,
-    "startSec": 1758363935,
-    "endSec": 0,
+    "startTime": 1758950760,
+    "endTime": 1758954360,
+    "createdSec": 1758947273,
+    "startSec": 1758950760,
+    "endSec": 1758954360,
     "finalizedSec": 0,
     "status": "active",
-    "metaHash": "0x1c833735c2998acca4f8fa086fba3aa628a070de69579d09e446eb204275d766",
-    "surveyType": 0,
-    "title": "Demo survey: shopping habits",
-    "summary": "Short pulse about where you shop online.",
-    "image": "",
-    "plannedRewardEth": "0.01",
-    "plannedRewardWei": "10000000000000000",
-    "metaValid": false,
-    "metaUrl": "/api/meta/300/0x1b7a6f15e4e95deb43cb11381e64a9c48426712e.json",
-    "prizeFunded": "0",
-    "prizeSwept": "0",
-    "prizeLiveBalance": "0",
-    "funded": false,
-    "fundingTxHash": null,
-    "gate": {
-      "addr": "0xe41d3fa062069fd5004c728dd1abed71cbf6377f",
-      "predicates": [
-        {
-          "key": "age_bucket",
-          "op": "in",
-          "value": [
-            18,
-            26,
-            31,
-            36,
-            41,
-            46,
-            51,
-            56,
-            60
-          ]
-        },
-        {
-          "key": "gender",
-          "op": "in",
-          "value": [
-            "male",
-            "female"
-          ]
-        },
-        {
-          "key": "country",
-          "op": "in",
-          "value": [
-            "NL",
-            "DE",
-            "FR"
-          ]
-        },
-        {
-          "key": "region",
-          "op": "in",
-          "value": [
-            "Europe"
-          ]
-        },
-        {
-          "key": "human",
-          "op": "==",
-          "value": true
-        }
-      ],
-      "epoch": "1"
-    }
-  },
-  {
-    "address": "0xe4278f9cc83b2000276255289ff3b23f2bcaf30a",
-    "creator": "0x24a249ea30ec4eca1f944cc1892f56cf78d654b0",
-    "startTime": 1758519420,
-    "endTime": 0,
-    "createdSec": 1758515898,
-    "startSec": 1758519420,
-    "endSec": 0,
-    "finalizedSec": 0,
-    "status": "active",
-    "metaHash": "0x5a1ec526c5290694f4886ad7dfacb5b284012600c3035133e4cb100a119ba668",
+    "metaHash": "0x2e85b4ec6f4cc432ca179292b20a332bd5e1576781917ac1b4e6beacb9104d43",
     "surveyType": 0,
     "title": "Untitled",
     "summary": "",
@@ -92,15 +17,12 @@
     "plannedRewardEth": "0",
     "plannedRewardWei": "0",
     "metaValid": false,
-    "metaUrl": "/api/meta/300/0xe4278f9cc83b2000276255289ff3b23f2bcaf30a.json",
+    "metaUrl": "/api/meta/534351/0xc13b6adf9411788cdce4c4c3a414d1d7144ea684.json",
     "prizeFunded": "0",
     "prizeSwept": "0",
     "prizeLiveBalance": "0",
     "funded": false,
     "fundingTxHash": null,
-    "gate": {
-      "addr": "0xe41d3fa062069fd5004c728dd1abed71cbf6377f",
-      "predicates": []
-    }
+    "chainId": 534351
   }
 ]

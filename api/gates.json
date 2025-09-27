@@ -3,8 +3,8 @@
     "domain": {
       "name": "D-Scope Eligibility",
       "version": "1",
-      "chainId": 300,
-      "verifyingContract": "0xe41d3fa062069fd5004c728dd1abed71cbf6377f"
+      "chainId": 534351,
+      "verifyingContract": ""
     },
     "types": {
       "Eligibility": [
@@ -23,5 +23,5 @@
       ]
     }
   },
-  "updatedAt": 1758792944
+  "updatedAt": 1758953726
 }
