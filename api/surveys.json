@@ -16,23 +16,5 @@
     "metaValid": false,
     "metaUrl": "/api/meta/534351/0xc13b6adf9411788cdce4c4c3a414d1d7144ea684.json",
     "prizeLiveBalance": "0"
-  },
-  "0xb16c0feb23ac18d9d6849cd0a013138247b55302": {
-    "creator": "0x24a249ea30ec4eca1f944cc1892f56cf78d654b0",
-    "start": 1758961020,
-    "end": 1758964620,
-    "metaHash": "0x830a05b2855ef089b03882274a198cd810d2ad9d2696ac3eb8e45cf499698a05",
-    "surveyType": 0,
-    "funded": false,
-    "fundingTxHash": null,
-    "createdAt": 1758957477,
-    "title": "Untitled",
-    "summary": "",
-    "image": "",
-    "plannedRewardEth": "0",
-    "plannedRewardWei": "0",
-    "metaValid": false,
-    "metaUrl": "/api/meta/534351/0xb16c0feb23ac18d9d6849cd0a013138247b55302.json",
-    "prizeLiveBalance": "0"
   }
 }
