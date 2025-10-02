@@ -1,0 +1,30 @@
+﻿{
+    "image":  "",
+    "summary":  "Quick pulse about favorite marketplaces.",
+    "createdAt":  1758947273,
+    "predicates":  {
+                       "enabled":  true
+                   },
+    "timing":  {
+                   "startTime":  1758950760,
+                   "endTime":  1758954360
+               },
+    "creator":  "0x24a249ea30ec4eca1f944cc1892f56cf78d654b0",
+    "v":  1,
+    "questions":  [
+                      {
+                          "text":  "Where do you shop online most often?",
+                          "selectionType":  "SINGLE",
+                          "allowOther":  true,
+                          "type":  "choice",
+                          "required":  true,
+                          "options":  [
+                                          "Amazon",
+                                          "AliExpress",
+                                          "eBay"
+                                      ]
+                      }
+                  ],
+    "chainId":  534351,
+    "title":  "Demo #1: shopping habits"
+}

@@ -1,0 +1,21 @@
+﻿{
+  "v": 1,
+  "chainId": 534351,
+  "creator": "0x24a249ea30ec4eca1f944cc1892f56cf78d654b0",
+  "title": "Demo survey: shopping habits",
+  "summary": "Short pulse about where you shop online.",
+  "image": "",
+  "questions": [
+    {
+      "type": "choice",
+      "text": "Where do you shop online most often?",
+      "required": true,
+      "selectionType": "SINGLE",
+      "allowOther": true,
+      "options": ["Amazon", "AliExpress", "eBay"]
+    }
+  ],
+  "predicates": { "enabled": true },
+  "timing": { "startTime": 1758363935, "endTime": 1758450335 },
+  "createdAt": 1758360000
+}

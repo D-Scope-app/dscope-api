@@ -1,0 +1,29 @@
+﻿{
+    "image":  "",
+    "summary":  "What matters more: speed or price?",
+    "createdAt":  1758967806,
+    "predicates":  {
+                       "enabled":  true
+                   },
+    "timing":  {
+                   "startTime":  1758971340,
+                   "endTime":  1758974940
+               },
+    "creator":  "0x24a249ea30ec4eca1f944cc1892f56cf78d654b0",
+    "v":  1,
+    "questions":  [
+                      {
+                          "text":  "Delivery trade-off?",
+                          "selectionType":  "SINGLE",
+                          "allowOther":  false,
+                          "type":  "choice",
+                          "required":  true,
+                          "options":  [
+                                          "Fast but pricier",
+                                          "Cheaper but slower"
+                                      ]
+                      }
+                  ],
+    "chainId":  534351,
+    "title":  "Demo #3: delivery speed"
+}

@@ -1,0 +1,30 @@
+﻿{
+    "image":  "",
+    "summary":  "Which payment method do you prefer most?",
+    "createdAt":  1758957477,
+    "predicates":  {
+                       "enabled":  true
+                   },
+    "timing":  {
+                   "startTime":  1758961020,
+                   "endTime":  1758964620
+               },
+    "creator":  "0x24a249ea30ec4eca1f944cc1892f56cf78d654b0",
+    "v":  1,
+    "questions":  [
+                      {
+                          "text":  "Preferred payment for online shopping?",
+                          "selectionType":  "SINGLE",
+                          "allowOther":  true,
+                          "type":  "choice",
+                          "required":  true,
+                          "options":  [
+                                          "Card",
+                                          "Crypto",
+                                          "PayPal"
+                                      ]
+                      }
+                  ],
+    "chainId":  534351,
+    "title":  "Demo #2: payment prefs"
+}
