@@ -70,5 +70,24 @@
     "metaValid": false,
     "metaUrl": "/api/meta/534351/0x50385eb3e4d1c3caddeb6a2c6dd2946639a70b80.json",
     "prizeLiveBalance": "0"
+  },
+  "0xcd65f8cd122336b87d358ffa2e67ccee0c351540": {
+    "creator": "0x24a249ea30ec4eca1f944cc1892f56cf78d654b0",
+    "start": 1759481040,
+    "end": 1759484640,
+    "metaHash": "0x3aa155abdd9c7355fe98d50f9cf79b3bc5d935e54815ecb44dc668d668fbe94f",
+    "surveyType": 0,
+    "funded": false,
+    "fundingTxHash": null,
+    "createdAt": 1759477505,
+    "title": "Untitled",
+    "summary": "",
+    "image": "",
+    "plannedRewardEth": "0",
+    "plannedRewardWei": "0",
+    "metaValid": false,
+    "metaUrl": "/api/meta/534351/0xcd65f8cd122336b87d358ffa2e67ccee0c351540.json",
+    "prizeFunded": "1000000000000000",
+    "prizeLiveBalance": "1000000000000000"
   }
 }
