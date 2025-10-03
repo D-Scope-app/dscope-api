@@ -14,8 +14,7 @@
     "plannedRewardEth": "0",
     "plannedRewardWei": "0",
     "metaValid": false,
-    "metaUrl": "/api/meta/534351/0xc13b6adf9411788cdce4c4c3a414d1d7144ea684.json",
-    "prizeLiveBalance": "0"
+    "metaUrl": "/api/meta/534351/0xc13b6adf9411788cdce4c4c3a414d1d7144ea684.json"
   },
   "0xb16c0feb23ac18d9d6849cd0a013138247b55302": {
     "creator": "0x24a249ea30ec4eca1f944cc1892f56cf78d654b0",
@@ -32,8 +31,7 @@
     "plannedRewardEth": "0",
     "plannedRewardWei": "0",
     "metaValid": false,
-    "metaUrl": "/api/meta/534351/0xb16c0feb23ac18d9d6849cd0a013138247b55302.json",
-    "prizeLiveBalance": "0"
+    "metaUrl": "/api/meta/534351/0xb16c0feb23ac18d9d6849cd0a013138247b55302.json"
   },
   "0x91b56e901dc7e4691d1262ffabaab02eda73d8c7": {
     "creator": "0x24a249ea30ec4eca1f944cc1892f56cf78d654b0",
@@ -50,44 +48,6 @@
     "plannedRewardEth": "0",
     "plannedRewardWei": "0",
     "metaValid": false,
-    "metaUrl": "/api/meta/534351/0x91b56e901dc7e4691d1262ffabaab02eda73d8c7.json",
-    "prizeLiveBalance": "0"
-  },
-  "0x50385eb3e4d1c3caddeb6a2c6dd2946639a70b80": {
-    "creator": "0x24a249ea30ec4eca1f944cc1892f56cf78d654b0",
-    "start": 1759400520,
-    "end": 1759404120,
-    "metaHash": "0x1112613a9d457c77d4e0ba807e06e9d2d7cd9cdbe6ff3ca19b70ad468a7f751f",
-    "surveyType": 0,
-    "funded": false,
-    "fundingTxHash": null,
-    "createdAt": 1759396996,
-    "title": "Untitled",
-    "summary": "",
-    "image": "",
-    "plannedRewardEth": "0",
-    "plannedRewardWei": "0",
-    "metaValid": false,
-    "metaUrl": "/api/meta/534351/0x50385eb3e4d1c3caddeb6a2c6dd2946639a70b80.json",
-    "prizeLiveBalance": "0"
-  },
-  "0xcd65f8cd122336b87d358ffa2e67ccee0c351540": {
-    "creator": "0x24a249ea30ec4eca1f944cc1892f56cf78d654b0",
-    "start": 1759481040,
-    "end": 1759484640,
-    "metaHash": "0x3aa155abdd9c7355fe98d50f9cf79b3bc5d935e54815ecb44dc668d668fbe94f",
-    "surveyType": 0,
-    "funded": false,
-    "fundingTxHash": null,
-    "createdAt": 1759477505,
-    "title": "Untitled",
-    "summary": "",
-    "image": "",
-    "plannedRewardEth": "0",
-    "plannedRewardWei": "0",
-    "metaValid": false,
-    "metaUrl": "/api/meta/534351/0xcd65f8cd122336b87d358ffa2e67ccee0c351540.json",
-    "prizeFunded": "1000000000000000",
-    "prizeLiveBalance": "1000000000000000"
+    "metaUrl": "/api/meta/534351/0x91b56e901dc7e4691d1262ffabaab02eda73d8c7.json"
   }
 }
