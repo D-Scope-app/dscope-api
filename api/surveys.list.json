@@ -164,7 +164,7 @@
     "startSec": 1759762740,
     "endSec": 1759766340,
     "finalizedSec": 0,
-    "status": "active",
+    "status": "past",
     "metaHash": "0x517ca8bb204c1c1937fa3111038185aca4dfe74a953b81031f9451bae714a561",
     "surveyType": 0,
     "title": "Untitled",
